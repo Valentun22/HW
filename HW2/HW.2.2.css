@@ -1,0 +1,24 @@
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 20px;
+    transition: 2s;}
+
+div {
+    display: flex;
+    justify-content: center;
+    margin-top: 190px;}
+
+.square:hover {
+    background-color: black;
+    transition: 1s;
+    border-radius: 50%;}
+
+.fon {
+    display: flex;
+    width: 800px;
+    height: 200px;
+    background-color: aqua;
+    align-items: center;
+}

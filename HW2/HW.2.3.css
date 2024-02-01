@@ -1,0 +1,46 @@
+.non {
+    height: 600px;
+    width: 95%;
+    background-color: #3e6a98;
+    display: flex;
+    justify-content: center}
+
+.size190{
+    width: 450px;
+    height: 550px;
+    background-color: #3636c2;
+    display: flex;
+    justify-content: center;
+    align-items: center}
+
+.noon {
+    height: 1100px;
+    width: 95%;
+    background-color: #3e6a98;
+    display: flex;
+    justify-content: center}
+
+
+.textM {
+    align-items: center;
+    font-size: 70px;
+    color: aliceblue;}
+
+.textMM {
+    align-items: center;
+    font-size: 70px;
+    color: aliceblue;}
+
+.textX {
+    font-size: 40px;
+    color: rgba(240, 248, 255, 0.63);
+    display: flex;
+    justify-content: center}
+
+.pad {
+    display: flex;
+    justify-content: space-between;}
+
+.mar {
+    margin: 25px 40px 40px 40px;
+}
