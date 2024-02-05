@@ -1,0 +1,39 @@
+body {margin: 0}
+
+.pText { font-size: 40px;}
+
+        /*----------------header---------------*/
+
+header {height: 22vh;  background: #D9D9D9;}
+
+.task31Flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+
+         /*----------------main----------------*/
+
+main {height: 56vh;  display: flex;}
+
+.task1Column1 {width: 19vw; background: #817C7C;}
+
+.task1Column3 {
+    width: 62vw;
+    fill: #ABA8A8;
+    height: 28vh;}
+
+.task1Column4 {
+    width: 62vw;
+    background: #878484;
+    height: 28vh;}
+
+.task1Column5 {width: 19vw; background: #B7AEAE;}
+
+         /*----------------footer---------------*/
+
+footer {
+    height: 22vh;
+    background: #BDBDBD;
+    display: flex;
+    justify-content: center;
+    align-items: center;}
