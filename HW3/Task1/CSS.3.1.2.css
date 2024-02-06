@@ -1,0 +1,24 @@
+body {margin: 0}
+
+.p32Text { font-size: 40px;}
+
+/*----------------header---------------*/
+
+header {height: 22vh;  background: #927D7D;}
+
+.task32Flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+
+/*----------------main----------------*/
+
+main {height: 56vh;  display: flex;}
+
+.task2Column1 {width: 19vw; background: #817C7C;}
+.task2Column2 {width: 62vw; background: #A74848;}
+.task2Column3 {width: 19vw; background: #B7AEAE;}
+
+/*----------------footer---------------*/
+
+footer { height: 22vh; background: #BDBDBD;}
