@@ -4,7 +4,7 @@ body p {font-size: 40px;}
 
 .pWhite {color: white;}
 
-.task33Flex{
+.task35Flex{
     display: flex;
     justify-content: center;
     align-items: center;}
@@ -19,12 +19,12 @@ main {height: 56vh;  display: flex;}
 
 .flex5{ display: flex;}
 
-.task3Column1 {width: 34vw; background: #D9D9D9; height: 18vh;}
-.task3Column2 {width: 34vw; background: #AA9898; height: 18vh;}
-.task3Column3 {width: 34vw; background: #C5BBBB; height: 20vh;}
+.task5Column1 {width: 34vw; background: #D9D9D9; height: 18vh;}
+.task5Column2 {width: 34vw; background: #AA9898; height: 18vh;}
+.task5Column3 {width: 34vw; background: #C5BBBB; height: 20vh;}
 
-.task3Column4 {width: 33vw; background: #8A8484;}
-.task3Column5 {width: 33vw; background: #C0B3B3;}
+.task5Column4 {width: 33vw; background: #8A8484;}
+.task5Column5 {width: 33vw; background: #C0B3B3;}
 
 /*----------------footer---------------*/
 
