@@ -1,0 +1,18 @@
+body {margin: 0; overflow-x:hidden;}
+
+.sizePage5 {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center}
+
+#pageOne {background-color: lightgreen; }
+#pageTwo {background-color: #15abdc; }
+#pageThree {background-color: #845696; }
+
+body h2 { font-size: 50px; text-align: center;}
+body p { font-size: 30px; width: 80vw; text-align: center;}
+body img { width: 100px; height: 100px; }
+
+.img5Centr { display: flex; justify-content: center; }
