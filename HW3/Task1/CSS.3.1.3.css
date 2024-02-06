@@ -2,6 +2,8 @@ body {margin: 0}
 
 body p { font-size: 40px;}
 
+.pWhite {color: white;}
+
 .task33Flex{
     display: flex;
     justify-content: center;
