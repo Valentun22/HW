@@ -1,0 +1,27 @@
+body {margin: 0}
+
+body p { font-size: 40px;}
+
+.task33Flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+
+/*----------------header---------------*/
+
+header {height: 22vh;  background: #8D8484;}
+
+/*----------------main----------------*/
+
+main {height: 56vh;  display: flex;}
+
+.task3Column1 {width: 73vw; background: #776969; height: 19vh;}
+.task3Column2 {width: 73vw; background: #643030; height: 20vh;}
+.task3Column3 {width: 73vw; background: #441818; height: 17vh;}
+
+.task3Column4 {width: 27vw; background: #937575; height: 27vh;}
+.task3Column5 {width: 27vw; background: #644C4C; height: 29vh;}
+
+/*----------------footer---------------*/
+
+footer {height: 22vh; background: #BDBDBD;}
