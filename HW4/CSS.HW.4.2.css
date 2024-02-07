@@ -1,0 +1,63 @@
+body { margin: 0; display: flex; }
+.basisinstagram { margin: 180px auto auto auto; }
+
+/*----------------------icons-------------------------*/
+
+#instagramIcon { width: 265px; height: 100px; margin: 35px }
+#facebookIcon { height: 22px; width: 22px; margin: 10px 5px -3px 0; }
+
+/*-----------------------header-----------------------*/
+
+header {
+    height: 520px;
+    width: 430px;
+    border: 2px solid rgba(110, 110, 110, 0.3);
+    text-align: center; }
+
+header input {
+    height: 50px;
+    width: 320px;
+    border-radius: 7px;
+    border: 1px solid rgb(19, 18, 18, 0.3);
+    background-color: rgba(171, 168, 168, 0.15);
+    font-size: 16px;
+    text-overflow: ellipsis;
+    margin: 5px;
+    padding: 0 10px 0 10px; }
+
+header button {
+    height: 40px;
+    width: 340px;
+    background-color: rgba(41, 159, 255, 0.71);
+    border-radius: 13px;
+    border: none;
+    margin-top: 15px;
+    color: white;
+    font-size: 18px; }
+
+header p{ font-size: 18px; color: rgba(70, 69, 69, 0.8); margin-top: 25px; }
+
+header a { text-decoration: none; }
+
+.openFacebook { font-size: 18px; color: #27498a; font-family: 'Rubik', sans-serif; }
+.forgotPassword { margin: 30px; font-size: 14px; color: #273b8a; font-family: 'Rubik', sans-serif; }
+
+/*-----------------------footer-----------------------*/
+
+footer{
+    height: 70px;
+    width: 430px;
+    border: 2px solid rgba(110, 110, 110, 0.3);
+    margin-top: 13px;
+    font-family: 'Rubik', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+
+footer a {text-decoration: none; color: rgba(41, 159, 255); margin-left: 8px }
+footer p {font-size: 16px; color: rgba(0, 0, 0, 0.7); }
+
+
+
+
+

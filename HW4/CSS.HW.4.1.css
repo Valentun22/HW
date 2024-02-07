@@ -41,7 +41,7 @@ main iframe { width: 63vw; height:55vh; margin-top: 100px}
 
 .columnPage3{ width: 450px; height: 700px; background: rgba(83, 83, 83, 0.40); }
 footer img { width: 408px; height: 214px; margin-top: 25px; }
-footer { font-size: 35px; text-align: center; justify-content: space-around;}
+footer { font-size: 35px; text-align: center; }
 
 footer button {
     font-family: 'KoHo', sans-serif;
