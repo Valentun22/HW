@@ -1,0 +1,59 @@
+body{ margin: 0; font-family: 'KoHo', sans-serif; overflow-x:hidden;}
+
+.sizeFullScreen { height: 100vh; width: 100vw;}
+
+.backgroundImage4 {
+    background-image: url( "https://s3-alpha-sig.figma.com/img/f2d3/038b/985d94469dd3e4e59a048b8ad995f428?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hLAVI7OyverQJfeSjwXU0mV~cZCpxyADoJQThOkQP~ZnsuWbLYpn6TbOO9NAxwJGCZLFqtDONtZ1WR~EjOxFMOOH731-sFBVlxd0N1qfupmvMNJ~qrSYyin-fN9GVh9sZBU-sBgq8Ic~3LopIhRyyLSOU7I1UpuqyX9sEHelsqFD3iGY8Q9FouAzNRyRY9fTqIFEJdRniofkjBZlHe8dgnn9p7vbGQ4Ifm7~-6ECyECk7B7wHPD9vSpI9i~TkECwYRf7jLecM55W~5oQ06I3PHTCinV6fj5UfjzyUxqc51-gKkk3nC6oLsfG4Nl6KF~Die3Iz4wC1E-2BR0IEhAIgg__");
+    background-size: cover;
+    background-blend-mode: lighten;
+    background-color: rgba(255,255,255,0.8);}
+
+/*<!------------------------Page-1--------------------------->*/
+
+header{
+    background-image: url( "https://s3-alpha-sig.figma.com/img/f2d3/038b/985d94469dd3e4e59a048b8ad995f428?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hLAVI7OyverQJfeSjwXU0mV~cZCpxyADoJQThOkQP~ZnsuWbLYpn6TbOO9NAxwJGCZLFqtDONtZ1WR~EjOxFMOOH731-sFBVlxd0N1qfupmvMNJ~qrSYyin-fN9GVh9sZBU-sBgq8Ic~3LopIhRyyLSOU7I1UpuqyX9sEHelsqFD3iGY8Q9FouAzNRyRY9fTqIFEJdRniofkjBZlHe8dgnn9p7vbGQ4Ifm7~-6ECyECk7B7wHPD9vSpI9i~TkECwYRf7jLecM55W~5oQ06I3PHTCinV6fj5UfjzyUxqc51-gKkk3nC6oLsfG4Nl6KF~Die3Iz4wC1E-2BR0IEhAIgg__");
+    background-size: cover;}
+
+.blockСenter { display: flex; align-items: center; justify-content: center;}
+.size35Vs40 { width: 35vw; height: 40vh; }
+.block1Page2 { background-color: white; display: compact; text-align: center; align-items: center;}
+
+.block1text1 { font-size: 45px;}
+.block1text2 { font-size: 25px; margin-bottom: 50px}
+
+header button {
+    font-family: 'KoHo', sans-serif; overflow-x:hidden;
+    font-size: 30px;
+    width: 27vw;
+    height: 7vh;
+    border-radius: 5px;
+    border: 1px solid rgba(156, 152, 152, 0.10);
+    background: rgba(217, 217, 217, 0.60);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);}
+
+/*<!------------------------Page-2--------------------------->*/
+
+main p { font-size: 35px;}
+main iframe { width: 63vw; height:55vh; margin-top: 100px}
+.block2text1 { width: 63vw; height: 19vh; margin-left: 18.5%}
+
+/*<!------------------------Page-3--------------------------->*/
+
+.columnPage3{ width: 450px; height: 700px; background: rgba(83, 83, 83, 0.40); }
+footer img { width: 408px; height: 214px; margin-top: 25px; }
+footer { font-size: 35px; text-align: center; justify-content: space-around;}
+
+footer button {
+    font-family: 'KoHo', sans-serif;
+    font-size: 35px;
+    overflow-x:hidden;
+    width: 409px;
+    height: 76px;
+    border-radius: 5px;
+    border: 1px solid rgba(156, 152, 152, 0.10);
+    background: rgba(217, 217, 217, 0.60);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    opacity: 0.6}
+
+.column2Page3 { margin: 50px}
+
