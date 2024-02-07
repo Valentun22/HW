@@ -1,0 +1,30 @@
+body { margin: 0; }
+
+.CenterAndColor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    background-color: #696464;
+    margin: 16px; }
+
+.workSixBlock {
+    display: flex;
+    flex-direction: column;
+    height: 60vh;
+    width: 72vw; }
+
+
+
+.displayFlex { display: flex; }
+
+header { height: 29vh; width: 97vw; }
+
+
+.workSixBlockF { height: 63.5vh; width: 25vw; display: flex }
+.blockB { height: 30vh; width: 70vw; display: flex}
+.colonSize { height: 30vh; width: 22vw; display: flex }
+.workSixFlex { height: 30vh; width: 72vw; display: flex; }
+
+
+main {  height: 64vh; width: 100vw; display: flex; }
