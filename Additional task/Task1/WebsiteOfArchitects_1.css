@@ -1,0 +1,80 @@
+body { margin: 0; }
+
+/*----------------------header---------------------*/
+
+header{ width: 100vw; height: 102px; display: flex; align-items: center}
+                      /*-icon-*/
+.mainImgMenu {width: 20vw; height: 102px; display: flex; align-items: center; justify-content: center }
+header img { width: 67px; height: 42px; }
+                      /*-Menu-*/
+.mainAMenu1{ margin: 0 46px 0 0; }
+.mainAMenu2{ margin: 0 61px 0 0; }
+.mainAMenu3{ margin: 0 55px 0 0; }
+.mainAMenu4{ margin: 0 49px 0 0; }
+
+.mainMenuAll {width: 80vw; height: 102px; display: flex; align-items: center; justify-content: center }
+header a{
+    text-decoration: none;
+    color: #333;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px; /* 100% */
+    letter-spacing: 3px;
+    text-transform: uppercase; }
+
+/*------------------------main----------------------->*/
+
+.mainPBig{
+    color: #BDBDBD;
+    font-family: 'Roboto', sans-serif;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 64px;}
+main h1 {
+    color: #333;
+    font-family: 'Roboto', sans-serif;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px;
+    margin-top: -70px;}
+
+                       /*-Part1-*/
+
+#mainPart1 { width: 100vw; height: 88vh; display: flex; justify-content: center; align-items: center}
+
+main #mainPart1 img {margin-left: 121px;}
+
+                       /*-Part2-*/
+
+.mainPart2Class1 { display: flex; justify-content: center; align-items: center }
+
+main #mainPart2 img { width: 270px; height: 345px; }
+main #mainPart2 .mainPart2Img2 { margin: 0 87px 0 87px; }
+main #mainPart2 .mainLoremTabl { width: 400px; height: 200px; }
+
+main #mainPart2 .mainLoremTabl p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 25px; }
+
+.mainPart2Class2 { margin-top: -100px;}
+
+main #mainPart2 .mainPart2Class1 {
+    display: flex;
+    width: 100vw;
+    height: 343px;
+    margin: 180px 0 180px 0;}
+
+                       /*-Part3-*/
+
+main #mainPart2Text1 { margin-left: 135px; }
+
+.mainTabl2 { width: 279px; height: 144px; }
+.mainTabl3 { width: 420px; height: 144px; }
+

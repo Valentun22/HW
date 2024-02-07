@@ -1,0 +1,16 @@
+body { margin: 0 }
+
+.CenterAndColor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    background-color: #696464; }
+
+header, main, footer { margin: 8px; }
+
+.flexSixBlock { display: flex; }
+
+header { height: 30vh; width: 99vw; }
+main   { height: 66vh; width: 68vw; }
+footer { height: 66vh; width: 30vw; }
