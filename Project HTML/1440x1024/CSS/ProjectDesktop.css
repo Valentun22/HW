@@ -9,7 +9,7 @@ body p { font-family: "Lato", sans-serif; }
 /*---------------------header--------------------*/
 
 header { height: 965px; width: 100vw; background: #19191B radial-gradient(50% 50% at 50% 50%, #353550 0%, rgba(25, 25, 27, 0.00) 100%); }
-#siteMenu { height: 120px; width: 100vw; display: flex;}
+#siteMenu { height: 120px; width: 100vw; display: flex; justify-content: space-between; }
 
                       /*menu*/
 
@@ -51,13 +51,13 @@ header { height: 965px; width: 100vw; background: #19191B radial-gradient(50% 50
 
                       /*page1*/
 
-#pageOne { height: 956px; width: 88vw; margin: 0 53px 0 120px; display: flex;  }
+#pageOne       { height: 956px; width: 88vw;  margin: 0 53px 0 120px; display: flex; justify-content: space-between  }
 
-#pageOneBoxAll { height: 393px; width: 582px; flex-shrink: 0; margin-top: 123px; }
+#pageOneBoxAll { height: 393px; width: 40vw;  flex-shrink: 0; margin-top: 123px; }
 #pageOneBoxOne { height: 502px; width: 50vw;  display: flex; flex-direction: column; justify-content: center; border-collapse: collapse;  }
-#pageOneBoxTwo { height: 713px;width: 656px;  flex-shrink: 0;  position: relative; top: -40px; }
+#pageOneBoxTwo { height: 713px; width: 656px; flex-shrink: 0;  position: relative; top: -40px; }
 
-#pageOneTextA  { height: 252px; width: 582px; }
+#pageOneTextA   { height: 252px; width: 582px; }
 #pageOneTextA p {
     color: #FFF;
     font-size: 80px;
@@ -95,7 +95,7 @@ main { width: 100vw; background: #19191B; }
 
 #pageTwoBox { height: 894px;; width: 83vw; margin: 0 120px 0 120px; display: flex; flex-direction: column  }
 
-#pageTwoBoxOne { display: flex; margin-bottom: 21px; justify-content: space-evenly; }
+#pageTwoBoxOne { display: flex; margin-bottom: 21px; justify-content: space-between; }
 
 #pageTwoBoxA   { height: 140px; width: 588px; margin-right: 23px; }
 #pageTwoBoxA p {
@@ -116,8 +116,8 @@ main { width: 100vw; background: #19191B; }
     letter-spacing: -0.657px;
     margin: 0; }
 
-#pageTwoBoxTwo     { display: flex; justify-content: center; margin-top: 50px; margin-bottom: 13px;  }
-#pageTwoBoxTwo img { height: 670px; width: 1200px; flex-shrink: 0; }
+#pageTwoBoxTwo     { height: 670px; width: 100%; display: flex; justify-content: center; margin: 50px 0 13px 0; }
+#pageTwoBoxTwo img { width: 100%; flex-shrink: 0; height: auto; max-width: 1200px; }
 
                               /*page3*/
 
@@ -196,7 +196,7 @@ main { width: 100vw; background: #19191B; }
     line-height: normal;
     margin: 0; }
 
-#pageFourBoxTwo { display: flex; margin-top: 185px; justify-content: space-evenly; }
+#pageFourBoxTwo { width: 100%; display: flex; margin-top: 185px; justify-content: space-between; }
 #pageFourBoxB   { margin: 0 24px 0 24px; }
 
                               /*page5*/
@@ -218,8 +218,7 @@ main { width: 100vw; background: #19191B; }
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin: 0;
-}
+    margin: 0; }
 
 #pageFiveBoxTwo    { height: 60px; width: 201px; margin: 0; }
 #pageFiveBoxTwo button {
@@ -259,15 +258,3 @@ footer { height: 190px; width: 100vw; background: #19191B; }
     font-weight: 400;
     line-height: 38px;
     letter-spacing: -0.5px; }
-
-
-
-
-
-
-
-
-
-
-
-
