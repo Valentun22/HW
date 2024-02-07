@@ -16,3 +16,5 @@ body p { font-size: 30px; width: 80vw; text-align: center;}
 body img { width: 100px; height: 100px; }
 
 .img5Centr { display: flex; justify-content: center; }
+
+html{scroll-behavior: smooth}
